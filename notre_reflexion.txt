@@ -1,5 +1,9 @@
-Nous avons choisis le dataset
+Nous avons choisis le dataset ...
 
 En parcourant ces données, nous nous sommes posés la problématique suivante:
 
 afin d'analyser au mieu, le modèle ... nous a paru le plus approprié car ...
+
+Nous en avons tiré les résultats suivant:
+
+Au final, nous en avons conclu...
